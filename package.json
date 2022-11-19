@@ -1,0 +1,27 @@
+{
+  "name": "random-strin-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanJose2022/random-strin-msg.git"
+  },
+  "keywords": [],
+  "author": "Jose(yusquen22@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanJose2022/random-strin-msg/issues"
+  },
+  "homepage": "https://github.com/JuanJose2022/random-strin-msg#readme",
+  "bin": {
+    "random-strin-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
